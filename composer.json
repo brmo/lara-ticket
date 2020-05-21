@@ -4,8 +4,8 @@
 	"type" : "laravel-package",
 	"keywords" : ["laravel support ticket", "Laravel ticket support", "ticket laravel", "laravel-5-package"],
 	"require": {
-	    "laravel/framework": "^6",
-	    "illuminate/support": "^6"
+	    "laravel/framework": "^7",
+	    "illuminate/support": "^7"
 	},
 	"license": "MIT",
 	"authors": [
