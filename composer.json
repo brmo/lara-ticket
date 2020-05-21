@@ -22,7 +22,7 @@
 	"extra" : {
 		"laravel" : {
 			"providers" : [
-				"Sdkcodes\\LaraTicket\\LaraTicketServiceProvider"
+				"Sdkcodes\\LaraTicket\\LaraTicketServiceProvider" 
 			]
 		}
 	}
